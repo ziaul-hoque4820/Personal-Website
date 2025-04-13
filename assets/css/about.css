@@ -40,7 +40,9 @@ body::after {
 }
 
 .about-content {
-    max-width: 500px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 .about-content h1 {
